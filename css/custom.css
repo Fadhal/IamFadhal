@@ -1,0 +1,27 @@
+body {
+    font-family: Titillium Web;
+    color: #e4e6e5;
+    background-image: url('../img/pw_maze_black.png');
+    background-repeat: repeat;
+}
+
+#verticalalign {
+    padding-top: 100px;
+}
+
+a {
+    background-color: none;
+    color: none;
+}
+
+#margin {
+    padding-top: 150px;
+}
+
+#neutral {
+    color: #0d0d0d;
+}
+
+#marginsocial {
+    padding-top: 100px;
+}
